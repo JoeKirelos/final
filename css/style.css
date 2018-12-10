@@ -30,7 +30,7 @@ nav{
 nav a{
   font-family: "Press Start 2P", impact, sans-serif;
   text-transform: uppercase;
-  color: #c02ead;
+  color: #fff;
   text-decoration: none;
   text-align: center;
   padding: 20px;
@@ -38,7 +38,7 @@ nav a{
   transition:all 0.5s;
 }
 nav a:hover{
-  background-color:#c02ead ;
+  background-color:#fff ;
   color: #4d74c3;
 }
 section h1{
@@ -162,12 +162,12 @@ button:hover{
   text-transform: capitalize;
   text-decoration: none;
   font-family: "Press Start 2P", impact, sans-serif;
-  color: #c02ead;
+  color: #fff;
   margin: 5px;
   transition: all .5s;
 }
 .sideBar a:hover{
-  background: #c02ead;
+  background: #fff;
   color: #4d74c3;
   box-shadow: 1px 3px #333;
 }
