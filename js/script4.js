@@ -50,6 +50,6 @@ function draw(){
     //once the text ends display the following
     }else{
       textSize(24)
-      text("hey, Joe here, hope you enjoyed this game. Sorry if it come off a little aggressive at times. The songs used for this are obviously not my own. They are in order Popstar by KDA, Brave Shine by Aimer and Hacking to the gate by Kanako Itou.",50, height/3,width-25)
-}
+      text("hey, Joe here, hope you enjoyed this game. Sorry if it come off a little aggressive at times. The songs used for this are obviously not my own. They are in order Popstar by KDA, Brave Shine by Aimer and Hacking to the gate by Kanako Itou.",50,height/3,width-50,height*2/3);
+    }
 }
